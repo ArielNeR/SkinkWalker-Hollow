@@ -13,6 +13,16 @@
 
 ---
 
+## 📱 Capturas de Pantalla
+
+<p align="center">
+  <img src="captures/menuPrincipal.PNG" width="200" alt="Pantalla Principal"/>
+  <img src="captures/modoCazado.PNG" width="200" alt="Modo Canzado"/>
+  <img src="captures/modoCazador.PNG" width="200" alt="Modo Cazador"/>
+</p>
+
+---
+
 ## 🔦 Características principales
 
 - ✅ **Mapa procedural**: pueblo generado automáticamente con casas, caminos, cementerio, pozo y bosques
@@ -63,9 +73,8 @@
 
 ## 📦 Instalación
 
-1. Descarga la última versión desde [Releases](https://github.com/tu-usuario/skinwalker-hollow/releases)
+1. Descarga la última versión desde [Releases](https://github.com/ArielNeR/skinwalker-hollow/releases)
 2. PC: ejecuta `SkinwalkerHollow.exe`
-3. Android: instala el APK
 
 ---
 
@@ -79,7 +88,7 @@
 ### Clonar y ejecutar
 
 ```bash
-git clone https://github.com/tu-usuario/skinwalker-hollow.git
+git clone https://github.com/ArielNeR/skinwalker-hollow.git
 cd skinwalker-hollow
 # Abre project.godot con Godot 4.4
 ```
