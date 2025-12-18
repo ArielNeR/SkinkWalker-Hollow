@@ -75,6 +75,7 @@
 
 1. Descarga la última versión desde [Releases](https://github.com/ArielNeR/skinwalker-hollow/releases)
 2. PC: ejecuta `SkinwalkerHollow.exe`
+[SkinwalkerHollow.exe](https://github.com/ArielNeR/SkinkWalker-Hollow/blob/main/releases/SkinwalkerHollow.exe)
 
 ---
 
